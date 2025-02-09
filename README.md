@@ -1,2 +1,8 @@
 # emojicraft-2-moder-s-revenge
-wait this isnt osrs
+
+## QoL and Necessities 
+** JEI
+** Jade
+** MouseTweaks
+** AppleSkin
+** Controlling
