@@ -89,6 +89,12 @@
 * Celestisynth
 * Dimensional Pockets II
 * Epic Knights: Shields, Armor and Weapons
+* Mutant Mobs
+* Resident Evil 4 & 8 Monsters
+* Born in Chaos
+* EvilCraft
+* Gateway to Eternity
+* Vampirism
 
 ## Magic 
 * Reliquary
