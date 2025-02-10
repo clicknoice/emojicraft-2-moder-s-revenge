@@ -42,6 +42,7 @@
 * Voice Chat
 * Time in a Bottle
 * Waystones
+* Cosmetic Armor
 
 ## Performance 
 * Embeddium
