@@ -1,4 +1,4 @@
-# emojicraft-2-moder-s-revenge
+# emojicraft 2: moder's revenge
 
 # Version
 1.19.2
