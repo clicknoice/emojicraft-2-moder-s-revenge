@@ -52,7 +52,6 @@
 * FastSuite (similar to fastfurnace and workbench but mainly here for micro-optomizations)
 * MemoryLeakFix
 * Out of Sight
-* Distant Horizons (highly configurable, can be disabled, let me know if you need help)
 
 ## Tech
 * Mekanism (generators, additions, AE2 integration)
