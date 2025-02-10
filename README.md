@@ -1,5 +1,8 @@
 # emojicraft-2-moder-s-revenge
 
+# Version
+## 1.19.2
+
 ## QoL and Necessities 
 * JEI
 * JER (just enough resources)
@@ -17,6 +20,19 @@
 * Configured
 * AttributeFix
 * Fast Leaf Decay
+* Luggage
+* Etched
+* Corpse
+* Touhou Little Maid
+* Training Dummy (MmmMmmMmm)
+* Builder's Wands
+* Effortless Building
+* Trash Cans
+* Elevators
+* Moving Elevators (entity)
+* Ender Storage
+* Mob Grind Utils
+* Enchantment Descriptions
 
 ## Performance 
 * Embeddium
@@ -38,7 +54,7 @@
 * CC: Tweaked
 * Advanced Peripherals
 * Cyclic
-* PneumaticCraft
+* PneumaticCraft (will nerf loot table)
 * Productive Bees
 
 ## Dimensions and Exploration
@@ -47,11 +63,31 @@
 * Lootr
 * Dungeon Crawl (roguelike dungeons, without the null arrow)
 * Cataclysm
-* Simply Swords
+* Simply Swords (will buff loot table)
 * Baubly Heart Canisters
 * Alex's Mobs
 * Minecolonies
 * Domum Ornamentum
+* Paragliders
+* Mowzie's Mobs
+* Artifacts (packet spam shouldnt happen but if it does this is on the chopping block)
+* Most of the Yung's "better" world gen mods
+* Biomes O Plenty
 
 ## Magic 
 * Reliquary
+* Mahou Tsukai
+* Iron's Spells
+* Apotheosis
+* Forbidden and Arcanus
+* Ars Nouveau
+
+## Decorative Blocks
+* Chipped
+* Rechiseled
+* Connecting Glass
+* Create Deco
+* Framed Blocks
+* Supplementaries
+* Handcrafted
+* Macaw's Full Suite
