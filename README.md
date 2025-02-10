@@ -62,6 +62,7 @@
 * Cyclic
 * PneumaticCraft (will nerf loot table)
 * Productive Bees
+* Flux Networks
 
 ## Dimensions and Exploration
 * Twilight Forest
