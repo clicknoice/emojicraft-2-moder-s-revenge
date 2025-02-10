@@ -1,5 +1,11 @@
 # emojicraft 2: moder's revenge
 
+# RULES
+* No mods that provide an opportunity for mass destruction within claimed chunks
+
+# NOTES
+* make sure you turn off clouds in options > video settings > quality > clouds
+
 # Version
 1.19.2
 
