@@ -40,6 +40,8 @@
 * Mob Grind Utils
 * Enchantment Descriptions
 * Voice Chat
+* Time in a Bottle
+* Waystones
 
 ## Performance 
 * Embeddium
