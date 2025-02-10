@@ -63,6 +63,8 @@
 * PneumaticCraft (will nerf loot table)
 * Productive Bees
 * Flux Networks
+* TacZ Guns
+* RFTools Utilities
 
 ## Dimensions and Exploration
 * Twilight Forest
@@ -80,6 +82,7 @@
 * Artifacts (packet spam shouldnt happen but if it does this is on the chopping block)
 * Most of the Yung's "better" world gen mods
 * Biomes O Plenty
+* When Dungeons Arise
 
 ## Magic 
 * Reliquary
