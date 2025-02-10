@@ -39,6 +39,7 @@
 * Ender Storage
 * Mob Grind Utils
 * Enchantment Descriptions
+* Voice Chat
 
 ## Performance 
 * Embeddium
@@ -65,6 +66,7 @@
 * Flux Networks
 * TacZ Guns
 * RFTools Utilities
+* Lets Do: Vinery
 
 ## Dimensions and Exploration
 * Twilight Forest
@@ -75,7 +77,7 @@
 * Simply Swords (will buff loot table)
 * Baubly Heart Canisters
 * Alex's Mobs
-* Minecolonies
+* Minecolonies (with towntalk)
 * Domum Ornamentum
 * Paragliders
 * Mowzie's Mobs
@@ -83,6 +85,10 @@
 * Most of the Yung's "better" world gen mods
 * Biomes O Plenty
 * When Dungeons Arise
+* Automobility
+* Celestisynth
+* Dimensional Pockets II
+* Epic Knights: Shields, Armor and Weapons
 
 ## Magic 
 * Reliquary
@@ -101,3 +107,4 @@
 * Supplementaries
 * Handcrafted
 * Macaw's Full Suite
+* Blue Archive Halos
